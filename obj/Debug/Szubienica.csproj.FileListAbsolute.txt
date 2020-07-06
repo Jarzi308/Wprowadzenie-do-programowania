@@ -1,0 +1,7 @@
+C:\Users\Dawid\Desktop\Już ostatnie oby\Szubienica\obj\Debug\Szubienica.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\Już ostatnie oby\Szubienica\obj\Debug\Szubienica.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\Już ostatnie oby\Szubienica\bin\Debug\Szubienica.exe.config
+C:\Users\Dawid\Desktop\Już ostatnie oby\Szubienica\bin\Debug\Szubienica.exe
+C:\Users\Dawid\Desktop\Już ostatnie oby\Szubienica\bin\Debug\Szubienica.pdb
+C:\Users\Dawid\Desktop\Już ostatnie oby\Szubienica\obj\Debug\Szubienica.exe
+C:\Users\Dawid\Desktop\Już ostatnie oby\Szubienica\obj\Debug\Szubienica.pdb
