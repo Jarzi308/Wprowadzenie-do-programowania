@@ -27,7 +27,7 @@ namespace Szubienica
 
 
                     case ConsoleKey.D1:
-                        Console.Clear(); opcjaWBudowie(); break;
+                        Console.Clear(); Wisielec.gra(); break;
                     case ConsoleKey.Escape:
                     case ConsoleKey.D2:
                         Environment.Exit(0); break;
@@ -39,11 +39,7 @@ namespace Szubienica
             }
 
         }
-        static void opcjaWBudowie()
-        {
-            Console.Write("Opcja w budowie");
-            Console.ReadKey();
-        }
+        
     }
 
 }

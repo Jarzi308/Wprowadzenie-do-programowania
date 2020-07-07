@@ -5,3 +5,10 @@ C:\Users\Dawid\Desktop\Już ostatnie oby\Szubienica\bin\Debug\Szubienica.exe
 C:\Users\Dawid\Desktop\Już ostatnie oby\Szubienica\bin\Debug\Szubienica.pdb
 C:\Users\Dawid\Desktop\Już ostatnie oby\Szubienica\obj\Debug\Szubienica.exe
 C:\Users\Dawid\Desktop\Już ostatnie oby\Szubienica\obj\Debug\Szubienica.pdb
+F:\projekt\Szubienica-Wisielec\bin\Debug\Szubienica.exe.config
+F:\projekt\Szubienica-Wisielec\bin\Debug\Szubienica.exe
+F:\projekt\Szubienica-Wisielec\bin\Debug\Szubienica.pdb
+F:\projekt\Szubienica-Wisielec\obj\Debug\Szubienica.csprojAssemblyReference.cache
+F:\projekt\Szubienica-Wisielec\obj\Debug\Szubienica.csproj.CoreCompileInputs.cache
+F:\projekt\Szubienica-Wisielec\obj\Debug\Szubienica.exe
+F:\projekt\Szubienica-Wisielec\obj\Debug\Szubienica.pdb
