@@ -12,3 +12,10 @@ F:\projekt\Szubienica-Wisielec\obj\Debug\Szubienica.csprojAssemblyReference.cach
 F:\projekt\Szubienica-Wisielec\obj\Debug\Szubienica.csproj.CoreCompileInputs.cache
 F:\projekt\Szubienica-Wisielec\obj\Debug\Szubienica.exe
 F:\projekt\Szubienica-Wisielec\obj\Debug\Szubienica.pdb
+C:\Users\Dawid\Desktop\projekt etap drugi zapasowy\Szubienica-Wisielec\obj\Debug\Szubienica.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\projekt etap drugi zapasowy\Szubienica-Wisielec\obj\Debug\Szubienica.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\projekt etap drugi zapasowy\Szubienica-Wisielec\obj\Debug\Szubienica.exe
+C:\Users\Dawid\Desktop\projekt etap drugi zapasowy\Szubienica-Wisielec\obj\Debug\Szubienica.pdb
+C:\Users\Dawid\Desktop\projekt etap drugi zapasowy\Szubienica-Wisielec\bin\Debug\Szubienica.exe.config
+C:\Users\Dawid\Desktop\projekt etap drugi zapasowy\Szubienica-Wisielec\bin\Debug\Szubienica.exe
+C:\Users\Dawid\Desktop\projekt etap drugi zapasowy\Szubienica-Wisielec\bin\Debug\Szubienica.pdb
