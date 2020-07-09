@@ -150,7 +150,10 @@ namespace Szubienica
                     if (err == errCount) // jeżeli gracz popełnił maksymalną liczbę błędów przegrywa
                     {
                         Console.WriteLine("Zostałeś pokonany przez słowo: {0}!\n", word);
-                         
+                        Console.WriteLine("\nZgadłeś słowo {0}!", word);
+                        Console.WriteLine("Naciśnij 1 aby zagrać jeszcze raz");
+                        Console.WriteLine("Naciśni 2 albo ESC aby wyjść");
+                        Console.WriteLine("Naciśni 3 aby wrócić do menu");
                         game = false;
                         ConsoleKeyInfo klawiatura = Console.ReadKey();
                         switch (klawiatura.Key)
@@ -177,10 +180,10 @@ namespace Szubienica
                         Console.WriteLine("Naciśnij 1 aby zagrać jeszcze raz");
                         Console.WriteLine("Naciśni 2 albo ESC aby wyjść");
                         Console.WriteLine("Naciśni 3 aby wrócić do menu");
-                        ConsoleKeyInfo klawiatura = Console.ReadKey();
+                        
                         game = false;
-                        switch (klawiatura.Key)
-                            
+                        ConsoleKeyInfo klawiatura = Console.ReadKey();
+                        switch (klawiatura.Key) 
                         {
 
 
