@@ -19,3 +19,10 @@ C:\Users\Dawid\Desktop\projekt etap drugi zapasowy\Szubienica-Wisielec\obj\Debug
 C:\Users\Dawid\Desktop\projekt etap drugi zapasowy\Szubienica-Wisielec\bin\Debug\Szubienica.exe.config
 C:\Users\Dawid\Desktop\projekt etap drugi zapasowy\Szubienica-Wisielec\bin\Debug\Szubienica.exe
 C:\Users\Dawid\Desktop\projekt etap drugi zapasowy\Szubienica-Wisielec\bin\Debug\Szubienica.pdb
+C:\Users\Dawid\Desktop\etap 3 bonusowy\Szubienica-Wisielec\obj\Debug\Szubienica.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\etap 3 bonusowy\Szubienica-Wisielec\obj\Debug\Szubienica.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\etap 3 bonusowy\Szubienica-Wisielec\obj\Debug\Szubienica.exe
+C:\Users\Dawid\Desktop\etap 3 bonusowy\Szubienica-Wisielec\obj\Debug\Szubienica.pdb
+C:\Users\Dawid\Desktop\etap 3 bonusowy\Szubienica-Wisielec\bin\Debug\Szubienica.exe.config
+C:\Users\Dawid\Desktop\etap 3 bonusowy\Szubienica-Wisielec\bin\Debug\Szubienica.exe
+C:\Users\Dawid\Desktop\etap 3 bonusowy\Szubienica-Wisielec\bin\Debug\Szubienica.pdb

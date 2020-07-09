@@ -150,14 +150,54 @@ namespace Szubienica
                     if (err == errCount) // jeżeli gracz popełnił maksymalną liczbę błędów przegrywa
                     {
                         Console.WriteLine("Zostałeś pokonany przez słowo: {0}!\n", word);
-                        Console.ReadLine();
+                         
                         game = false;
+                        ConsoleKeyInfo klawiatura = Console.ReadKey();
+                        switch (klawiatura.Key)
+
+                        {
+
+
+                            case ConsoleKey.D1:
+                                Console.Clear(); Wisielec.gra(); break;
+                            case ConsoleKey.D3:
+                                Console.Clear(); Menu.startMenu(); break;
+                            case ConsoleKey.Escape:
+                            case ConsoleKey.D2:
+                                Environment.Exit(0); break;
+                            default: break;
+
+
+
+                        }
                     }
                     if (win) // jeżeli gracz odgadł słowo wygrywa
                     {
                         Console.WriteLine("\nZgadłeś słowo {0}!", word);
-                        Console.ReadLine();
+                        Console.WriteLine("Naciśnij 1 aby zagrać jeszcze raz");
+                        Console.WriteLine("Naciśni 2 albo ESC aby wyjść");
+                        Console.WriteLine("Naciśni 3 aby wrócić do menu");
+                        ConsoleKeyInfo klawiatura = Console.ReadKey();
                         game = false;
+                        switch (klawiatura.Key)
+                            
+                        {
+
+
+                            case ConsoleKey.D1:
+                                Console.Clear(); Wisielec.gra(); break;
+                            case ConsoleKey.D3:
+                                Console.Clear(); Menu.startMenu(); break;
+                            case ConsoleKey.Escape:
+                            case ConsoleKey.D2:
+                                Environment.Exit(0); break;
+                            default: break;
+
+
+
+                        }
+                        
+
                     }
                 }
             }
